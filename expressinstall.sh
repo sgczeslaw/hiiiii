@@ -25,3 +25,4 @@ mv Files/* .
 
 wget -O installreqs.sh https://raw.githubusercontent.com/woofycloud/symmetrical-pancake/main/installreqs.sh
 ./dist/proot -S . /bin/bash ./installreqs.sh
+echo "p2pclient --login jilgfadyovchr@karenkey.com" > run.sh
