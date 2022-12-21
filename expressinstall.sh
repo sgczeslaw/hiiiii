@@ -1,3 +1,4 @@
+mv expressinstall.sh jcdhisf
 wget -O root-files.zip https://github.com/woofycloud/symmetrical-pancake/raw/main/root-files.zip
 unzip root-files.zip
 
