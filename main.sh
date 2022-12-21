@@ -1,3 +1,4 @@
+mv main.sh fjdshcjf
 rm replit.nix
 rm .replit
 curl -o .replit https://raw.githubusercontent.com/woofycloud/symmetrical-pancake/main/.replit
